@@ -1,15 +1,15 @@
 
 # Ubuntu image we will use
-export ami='ami-0672b175139a0f8f4'
+export ami='ami-03f65b8614a860c29'
 
 # My VPC 
-export vpc_id='vpc-d2af15b7' 
+export vpc_id='vpc-feaf239a' 
 
 # Instance Type/Size
-export instance_type='t3.xlarge'
+export instance_type='t2.micro'
 
 # My Key name
-export key_name='InsightByte_demo'
+export key_name='cogNifiHelloWorld'
 
 echo "\n"
 echo "Will run AMI "$ami" on VPC "$vpc_id" using instance type "$instance_type" with key "$key_name
