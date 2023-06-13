@@ -4,7 +4,7 @@
 
 
 ### Setting some parameters
-ApacheNifi/Chapter-7/EC2-Env/config.sh
+./config.sh
 
 
 ### !!!! Delete all resource if they exists
