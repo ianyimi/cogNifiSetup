@@ -4,7 +4,7 @@
 
 
 ### Setting some parameters
-./config.sh
+sh ./config.sh
 
 
 ### !!!! Delete all resource if they exists
